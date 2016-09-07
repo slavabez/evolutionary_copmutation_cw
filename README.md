@@ -1,6 +1,10 @@
-# Ecolutionary Computation final year coursework
+# Evolutionary Computation final year coursework
 
-The task was to create an evolutionary algorith capable of creating instances of Robocode robots and training them against a 'sitting duck', a stationary robot.
+The task was to create an evolutionary algorithm capable of creating instances of Robocode robots and training them against a 'sitting duck', a stationary robot.
+
+Robots were randomly generated, taken to the fight, evaluated against the fitness function and cross-bred (and sometimes mutated).
+
+The end result, ideally, would be a robot that has 'learned' to successfully defeat the opponent.
 
 Every robot generated looked like the following code:
 
