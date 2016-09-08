@@ -29,7 +29,7 @@ public class KB_<GEN_#>_<ID_#> extends AdvancedRobot {
 }
 ```
 
-The five chromosomes were used in the fitness function to determine the fitter robots. if you'd like to know more about this let me know at bezgachev@gmail.com.
+The five chromosomes were used in the genome. Each chromosome was a random binary tree consisitng of a random collection of parameters and functions of varioes arities (1 to 4). If you'd like to know more about this let me know at bezgachev@gmail.com.
 
 Surprisingly, I ended up getting a pretty good grade for this, around 85%.
 
